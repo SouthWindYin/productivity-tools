@@ -1,13 +1,31 @@
 # productivity-tools
 Working Experience &amp; Life Experience
 
-* 系统 - Windows 10 / <font color=DodgerBlue>Ubuntu</font>
-* 编辑器 - <font color=DodgerBlue>Visual Studio Code</font>
-* 下载工具 - <font color=LawnGreen>Free Download Manager</font>
-* 语音 - <font color=LawnGreen>网易UU语音</font>
-* 版本管理 - <font color=DodgerBlue>Git</font> / <font color=DodgerBlue>TortoiseSVN</font>
-* 日程管理 - <font color=LawnGreen>Microsoft To Do</font>
-* ssh客户端 - <font color=DodgerBlue>PuTTY</font>
-* ftp客户端 - <font color=DodgerBlue>FileZilla</font>
-* 视频录制 - <font color=DodgerBlue>OBS Studio</font>
-* 办公套件 - <font color=Black>Microsoft Office</font>
+* 系统 - **Windows 10** / Ubuntu
+* 编辑器 - Visual Studio Code
+* 下载工具 - Free Download Manager
+* 语音 - *网易UU语音*
+* 版本管理 - Git / TortoiseSVN
+* 日程管理 - *Microsoft To Do*
+* ssh客户端 - PuTTY / *Xshell*
+* ftp客户端 - FileZilla / PSFTP / *Xftp*
+* 视频录制 - OBS Studio
+* 办公套件 - **Microsoft Office** / *WPS Office*
+* 关系型数据库管理工具 - DBeaver / **PL/SQL Developer**
+* 网盘 - *百度网盘*
+* Java集成开发环境 - Eclipse
+* Redis客户端 - Another Redis Desktop Manager
+* 制图 - **Adobe Photoshop**
+* 远程连接 - 向日葵
+* 文件查找 - Everything
+* 压缩 - 7-Zip
+* 视频播放 - VLC media player
+* MongoDB客户端 - Robo 3T
+* api调试 - *Postman* / Postwoman
+* 浏览器 - *Microsoft Edge* / Firefox / Chrome
+* 系统盘制作 - *Rufus*
+* 终端 - *Windows Terminal*
+* 音频处理 - Audacity
+* 数学计算 - Octave
+* 游戏加速器 - **雷神加速器**
+* v2fly客户端 - v2rayN
