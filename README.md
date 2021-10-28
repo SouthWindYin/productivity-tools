@@ -1,6 +1,7 @@
 # productivity-tools
 Working Experience &amp; Life Experience
 
+## 软件
 * 系统 - **Windows 10** / Ubuntu
 * 编辑器 - Visual Studio Code
 * 下载工具 - Free Download Manager
@@ -29,3 +30,9 @@ Working Experience &amp; Life Experience
 * 数学计算 - Octave
 * 游戏加速器 - **雷神加速器**
 * v2fly客户端 - v2rayN
+
+## 网站
+* 搜索 - [必应](https://cn.bing.com/) / [百度](https://www.baidu.com/) / [谷歌](https://www.google.com/)
+* 数据集 - [kaggle](https://www.kaggle.com/)
+* 数学作图 - [desmos](https://www.desmos.com/calculator?lang=zh-CN)
+* 翻译 - [谷歌翻译](https://translate.google.cn/)
