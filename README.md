@@ -17,7 +17,7 @@ Working Experience &amp; Life Experience
 * Java集成开发环境 - Eclipse
 * Redis客户端 - Another Redis Desktop Manager
 * 制图 - **Adobe Photoshop**
-* 远程连接 - 向日葵
+* 远程控制 - *向日葵*
 * 文件查找 - Everything
 * 压缩 - 7-Zip
 * 视频播放 - VLC media player
