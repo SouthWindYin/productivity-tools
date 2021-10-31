@@ -30,6 +30,7 @@ Working Experience &amp; Life Experience
 * 数学计算 - Octave
 * 游戏加速器 - **雷神加速器**
 * v2fly客户端 - v2rayN
+* 数据库设计 - CHINER
 
 ## 网站
 * 搜索 - [必应](https://cn.bing.com/) / [百度](https://www.baidu.com/) / [谷歌](https://www.google.com/)
