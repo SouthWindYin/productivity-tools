@@ -22,7 +22,7 @@ Working Experience &amp; Life Experience
 * 压缩 - 7-Zip
 * 视频播放 - VLC media player
 * MongoDB客户端 - Robo 3T
-* api调试 - *Postman* / Postwoman
+* api调试 - *Postman*
 * 浏览器 - *Microsoft Edge* / Firefox / Chrome
 * 系统盘制作 - *Rufus*
 * 终端 - *Windows Terminal*
@@ -37,3 +37,4 @@ Working Experience &amp; Life Experience
 * 数据集 - [kaggle](https://www.kaggle.com/)
 * 数学作图 - [desmos](https://www.desmos.com/calculator?lang=zh-CN)
 * 翻译 - [谷歌翻译](https://translate.google.cn/)
+* api调试 - [Hoppscotch](https://hoppscotch.io/cn)
