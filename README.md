@@ -33,6 +33,7 @@ Working Experience &amp; Life Experience \
 * v2fly客户端 - v2rayN
 * 数据库设计 - CHINER
 * 压力测试 - Apache JMeter
+* 字体 - 思源宋体
 
 ## 网站
 * 搜索 - [必应](https://cn.bing.com/) / [百度](https://www.baidu.com/) / [谷歌](https://www.google.com/)
@@ -41,3 +42,4 @@ Working Experience &amp; Life Experience \
 * 翻译 - [谷歌翻译](https://translate.google.cn/)
 * api调试 - [Hoppscotch](https://hoppscotch.io/cn)
 * 下载在线视频 - [YT-DLP](https://github.com/yt-dlp/yt-dlp)
+* github代下载 - [Github下载](https://d.serctl.com/)
