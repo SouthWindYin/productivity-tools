@@ -34,6 +34,7 @@ Working Experience &amp; Life Experience \
 * 数据库设计 - CHINER
 * 压力测试 - Apache JMeter
 * 字体 - 思源宋体
+* pdf阅读器 - Sumatra PDF
 
 ## 网站
 * 搜索 - [必应](https://cn.bing.com/) / [百度](https://www.baidu.com/) / [谷歌](https://www.google.com/)
@@ -43,3 +44,7 @@ Working Experience &amp; Life Experience \
 * api调试 - [Hoppscotch](https://hoppscotch.io/cn)
 * 下载在线视频 - [YT-DLP](https://github.com/yt-dlp/yt-dlp)
 * github代下载 - [Github下载](https://d.serctl.com/)
+
+### 学习网站
+* 正则表达式 - [RegexLearn](https://regexlearn.com/)
+* 算法 - [VisuAlgo](https://visualgo.net/zh)
