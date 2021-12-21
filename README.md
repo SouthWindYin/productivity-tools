@@ -39,7 +39,7 @@ Working Experience &amp; Life Experience \
 ## 网站
 * 搜索 - [必应](https://cn.bing.com/) / [百度](https://www.baidu.com/) / [谷歌](https://www.google.com/)
 * 数据集 - [kaggle](https://www.kaggle.com/)
-* 数学作图 - [desmos](https://www.desmos.com/calculator?lang=zh-CN)
+* 数学作图 - [desmos calculator](https://www.desmos.com/calculator?lang=zh-CN)
 * 翻译 - [谷歌翻译](https://translate.google.cn/)
 * api调试 - [Hoppscotch](https://hoppscotch.io/cn)
 * 下载在线视频 - [YT-DLP](https://github.com/yt-dlp/yt-dlp)
