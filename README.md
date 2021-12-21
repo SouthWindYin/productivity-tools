@@ -44,6 +44,7 @@ Working Experience &amp; Life Experience \
 * api调试 - [Hoppscotch](https://hoppscotch.io/cn)
 * 下载在线视频 - [YT-DLP](https://github.com/yt-dlp/yt-dlp)
 * github代下载 - [Github下载](https://d.serctl.com/)
+* 算法练习 - [力扣（中国）](https://leetcode-cn.com/) [LeetCode](https://leetcode.com/)
 
 ### 学习网站
 * 正则表达式 - [RegexLearn](https://regexlearn.com/)
