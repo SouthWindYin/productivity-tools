@@ -36,6 +36,11 @@ Working Experience &amp; Life Experience \
 * 字体 - 思源宋体
 * pdf阅读器 - Sumatra PDF
 
+### python框架
+* web框架 - flask / django / fastAPI
+* 编辑器 - JupyterLab
+* oracle接口 - cx_Oracle
+
 ## 网站
 * 搜索 - [必应](https://cn.bing.com/) / [百度](https://www.baidu.com/) / [谷歌](https://www.google.com/)
 * 数据集 - [kaggle](https://www.kaggle.com/)
