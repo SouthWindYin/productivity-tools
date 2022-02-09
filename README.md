@@ -5,3 +5,6 @@ Working Experience &amp; Life Experience
 * [电脑](./pc.md)
 * [装修](./zx.md)
 * [如何办一个婚礼](./hl.md) 
+
+## LICENSE
+[MIT License](./LICENSE)
