@@ -1,8 +1,10 @@
 # 电脑 生产力·效率至上
+
 Working Experience &amp; Life Experience \
 **商业**、*免费闭源*、开源
 
 ## 软件
+
 * 系统 - **Windows 10** / Ubuntu
 * 编辑器 - Visual Studio Code
 * 下载工具 - Free Download Manager
@@ -36,12 +38,18 @@ Working Experience &amp; Life Experience \
 * 字体 - 思源宋体
 * pdf阅读器 - Sumatra PDF
 
+### Java框架
+
+* json框架 - Jackson
+
 ### python框架
+
 * web框架 - flask / django / fastAPI
 * 编辑器 - JupyterLab
 * oracle接口 - cx_Oracle
 
 ## 网站
+
 * 搜索 - [必应](https://cn.bing.com/) / [百度](https://www.baidu.com/) / [谷歌](https://www.google.com/)
 * 数据集 - [kaggle](https://www.kaggle.com/)
 * 数学作图 - [desmos calculator](https://www.desmos.com/calculator?lang=zh-CN)
@@ -54,5 +62,6 @@ Working Experience &amp; Life Experience \
 * 免费字体 - [font space](https://www.fontspace.com/)
 
 ### 学习网站
+
 * 正则表达式 - [RegexLearn](https://regexlearn.com/)
 * 算法 - [VisuAlgo](https://visualgo.net/zh)
