@@ -35,11 +35,15 @@ Working Experience &amp; Life Experience \
 * 压力测试 - Apache JMeter
 * 字体 - 思源宋体
 * pdf阅读器 - Sumatra PDF
+* 白板工具 - *会议桌*
 
 ### python框架
 * web框架 - flask / django / fastAPI
 * 编辑器 - JupyterLab
 * oracle接口 - cx_Oracle
+
+### 前端框架
+* 视频播放器 - Plyr
 
 ## 网站
 * 搜索 - [必应](https://cn.bing.com/) / [百度](https://www.baidu.com/) / [谷歌](https://www.google.com/)
