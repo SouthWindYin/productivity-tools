@@ -35,7 +35,7 @@ Working Experience &amp; Life Experience \
 * 压力测试 - Apache JMeter
 * 字体 - 思源宋体
 * pdf阅读器 - Sumatra PDF
-* 白板工具 - *会议桌*
+* 图表工具 - diagrams.net / *会议桌*
 
 ### python框架
 * web框架 - flask / django / fastAPI
@@ -56,7 +56,7 @@ Working Experience &amp; Life Experience \
 * 算法练习 - [力扣（中国）](https://leetcode-cn.com/) [LeetCode](https://leetcode.com/)
 * ssl证书 - [Let's Encrypt](https://letsencrypt.org/)
 * 免费字体 - [font space](https://www.fontspace.com/)
+* 正则表达式 - [regular expressions 101](https://regex101.com/) / [RegexLearn](https://regexlearn.com/)
 
 ### 学习网站
-* 正则表达式 - [RegexLearn](https://regexlearn.com/)
 * 算法 - [VisuAlgo](https://visualgo.net/zh)
