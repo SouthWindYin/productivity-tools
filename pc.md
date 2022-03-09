@@ -26,7 +26,7 @@ Working Experience &amp; Life Experience \
 * api调试 - *Postman*
 * 浏览器 - *Microsoft Edge* / Firefox / Chrome
 * 系统盘制作 - *Rufus*
-* 终端 - *Windows Terminal*
+* Windows终端 - *Windows Terminal*
 * 音频处理 - Audacity
 * 数学计算 - Octave
 * 游戏加速器 - **雷神加速器**
@@ -35,6 +35,7 @@ Working Experience &amp; Life Experience \
 * 压力测试 - Apache JMeter
 * 字体 - 思源宋体
 * pdf阅读器 - Sumatra PDF
+* pdf编辑器 - **Adobe Acrobat**
 * 图表工具 - diagrams.net / *会议桌*
 
 ### python框架
