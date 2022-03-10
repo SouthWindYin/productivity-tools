@@ -28,7 +28,7 @@ Working Experience &amp; Life Experience \
 * api调试 - *Postman*
 * 浏览器 - *Microsoft Edge* / Firefox / Chrome
 * 系统盘制作 - *Rufus*
-* 终端 - *Windows Terminal*
+* Windows终端 - *Windows Terminal*
 * 音频处理 - Audacity
 * 数学计算 - Octave
 * 游戏加速器 - **雷神加速器**
@@ -37,6 +37,8 @@ Working Experience &amp; Life Experience \
 * 压力测试 - Apache JMeter
 * 字体 - 思源宋体
 * pdf阅读器 - Sumatra PDF
+* pdf编辑器 - **Adobe Acrobat**
+* 图表工具 - diagrams.net / *会议桌*
 
 ### Java框架
 
@@ -47,6 +49,9 @@ Working Experience &amp; Life Experience \
 * web框架 - flask / django / fastAPI
 * 编辑器 - JupyterLab
 * oracle接口 - cx_Oracle
+
+### 前端框架
+* 视频播放器 - Plyr
 
 ## 网站
 
@@ -60,6 +65,7 @@ Working Experience &amp; Life Experience \
 * 算法练习 - [力扣（中国）](https://leetcode-cn.com/) [LeetCode](https://leetcode.com/)
 * ssl证书 - [Let's Encrypt](https://letsencrypt.org/)
 * 免费字体 - [font space](https://www.fontspace.com/)
+* 正则表达式 - [regular expressions 101](https://regex101.com/) / [RegexLearn](https://regexlearn.com/)
 
 ### 学习网站
 
