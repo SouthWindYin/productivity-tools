@@ -18,7 +18,7 @@ Working Experience &amp; Life Experience \
 * 关系型数据库管理工具 - DBeaver / **PL/SQL Developer**
 * 网盘 - *百度网盘*
 * Java集成开发环境 - Eclipse
-* Redis客户端 - Another Redis Desktop Manager
+* Redis客户端 - Another Redis Desktop Manager / *RedisInsight*
 * 制图 - **Adobe Photoshop**
 * 远程控制 - *向日葵*
 * 文件查找 - Everything
