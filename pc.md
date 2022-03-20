@@ -38,7 +38,7 @@ Working Experience &amp; Life Experience \
 * 字体 - 思源宋体
 * pdf阅读器 - Sumatra PDF
 * pdf编辑器 - **Adobe Acrobat**
-* 图表工具 - diagrams.net / *会议桌*
+* 图表工具 - diagrams.net / *会议桌* / Miro / Excalidraw
 
 ### Java框架
 
