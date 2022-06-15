@@ -67,6 +67,7 @@ Working Experience &amp; Life Experience \
 * ssl证书 - [Let's Encrypt](https://letsencrypt.org/)
 * 免费字体 - [font space](https://www.fontspace.com/)
 * 正则表达式 - [regular expressions 101](https://regex101.com/) / [RegexLearn](https://regexlearn.com/)
+* 图片处理 - [Photopea](https://www.photopea.com/)
 
 ### 学习网站
 
