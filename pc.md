@@ -39,10 +39,12 @@ Working Experience &amp; Life Experience \
 * pdf阅读器 - Sumatra PDF
 * pdf编辑器 - **Adobe Acrobat**
 * 图表工具 - diagrams.net / *会议桌* / Miro / Excalidraw
+* windows11时钟显示秒针 - ElevenClock
 
 ### Java框架
 
-* json框架 - Jackson
+* json框架 - [Jackson](https://github.com/FasterXML/jackson)
+* jvm对象内存分析 - [JOL](https://github.com/openjdk/jol)
 
 ### python框架
 
