@@ -75,3 +75,7 @@ Working Experience &amp; Life Experience \
 
 * 正则表达式 - [RegexLearn](https://regexlearn.com/)
 * 算法 - [VisuAlgo](https://visualgo.net/zh)
+
+### 其他
+
+* 破解Adobe软件 - [Vposy](https://www.weibo.com/vposy)
