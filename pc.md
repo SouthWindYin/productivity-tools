@@ -39,6 +39,7 @@ Working Experience &amp; Life Experience \
 * pdf阅读器 - Sumatra PDF
 * pdf编辑器 - **Adobe Acrobat**
 * 图表工具 - diagrams.net / *会议桌* / Miro / Excalidraw
+* 磁力链接下载 - WebTorrent / uTorrent
 
 ### Java框架
 
@@ -72,3 +73,7 @@ Working Experience &amp; Life Experience \
 
 * 正则表达式 - [RegexLearn](https://regexlearn.com/)
 * 算法 - [VisuAlgo](https://visualgo.net/zh)
+
+### 娱乐网站
+
+* 字幕下载 - [字幕库](https://zimuku.org/)
