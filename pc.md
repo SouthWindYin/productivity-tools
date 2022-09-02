@@ -40,10 +40,12 @@ Working Experience &amp; Life Experience \
 * pdf编辑器 - **Adobe Acrobat**
 * 图表工具 - diagrams.net / *会议桌* / Miro / Excalidraw
 * 磁力链接下载 - WebTorrent / uTorrent
+* windows11时钟显示秒针 - ElevenClock
 
 ### Java框架
 
-* json框架 - Jackson
+* json框架 - [Jackson](https://github.com/FasterXML/jackson)
+* jvm对象内存分析 - [JOL](https://github.com/openjdk/jol)
 
 ### python框架
 
@@ -64,16 +66,20 @@ Working Experience &amp; Life Experience \
 * api调试 - [Hoppscotch](https://hoppscotch.io/cn)
 * 下载在线视频 - [YT-DLP](https://github.com/yt-dlp/yt-dlp)
 * github代下载 - [Github下载](https://d.serctl.com/)
-* 算法练习 - [力扣（中国）](https://leetcode-cn.com/) [LeetCode](https://leetcode.com/)
 * ssl证书 - [Let's Encrypt](https://letsencrypt.org/)
 * 免费字体 - [font space](https://www.fontspace.com/)
 * 正则表达式 - [regular expressions 101](https://regex101.com/) / [RegexLearn](https://regexlearn.com/)
+* 图片处理 - [Photopea](https://www.photopea.com/)
 
 ### 学习网站
 
 * 正则表达式 - [RegexLearn](https://regexlearn.com/)
 * 算法 - [VisuAlgo](https://visualgo.net/zh)
+* 算法练习 - [力扣（中国）](https://leetcode-cn.com/) [LeetCode](https://leetcode.com/)
 
 ### 娱乐网站
 
 * 字幕下载 - [字幕库](https://zimuku.org/)
+### 其他
+
+* 破解Adobe软件 - [Vposy](https://www.weibo.com/vposy)
