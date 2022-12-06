@@ -35,11 +35,11 @@ Working Experience &amp; Life Experience \
 * v2fly客户端 - v2rayN
 * 数据库设计 - CHINER
 * 压力测试 - Apache JMeter
-* 字体 - 思源宋体
+* 字体 - 思源宋体 / 思源黑体
 * pdf阅读器 - Sumatra PDF
 * pdf编辑器 - **Adobe Acrobat**
 * 图表工具 - diagrams.net / *会议桌* / Miro / Excalidraw
-* 磁力链接下载 - WebTorrent / uTorrent
+* 磁力链接下载 - qBittorrent
 * windows11时钟显示秒针 - ElevenClock
 
 ### Java框架
@@ -62,7 +62,7 @@ Working Experience &amp; Life Experience \
 * 搜索 - [必应](https://cn.bing.com/) / [百度](https://www.baidu.com/) / [谷歌](https://www.google.com/)
 * 数据集 - [kaggle](https://www.kaggle.com/)
 * 数学作图 - [desmos calculator](https://www.desmos.com/calculator?lang=zh-CN)
-* 翻译 - [谷歌翻译](https://translate.google.cn/)
+* 翻译 - [谷歌翻译](https://translate.google.cn/) / [DeepL翻译器](https://www.deepl.com/translator)
 * api调试 - [Hoppscotch](https://hoppscotch.io/cn)
 * 下载在线视频 - [YT-DLP](https://github.com/yt-dlp/yt-dlp)
 * github代下载 - [Github下载](https://d.serctl.com/)
@@ -70,6 +70,7 @@ Working Experience &amp; Life Experience \
 * 免费字体 - [font space](https://www.fontspace.com/)
 * 正则表达式 - [regular expressions 101](https://regex101.com/) / [RegexLearn](https://regexlearn.com/)
 * 图片处理 - [Photopea](https://www.photopea.com/)
+* 服务器端口连通测试 - [ping.me](https://ping.pe/)
 
 ### 学习网站
 
