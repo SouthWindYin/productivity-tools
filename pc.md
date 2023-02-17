@@ -16,7 +16,7 @@ Working Experience &amp; Life Experience \
 * 视频录制 - OBS Studio
 * 办公套件 - **Microsoft Office** / *WPS Office*
 * 关系型数据库管理工具 - DBeaver / **PL/SQL Developer**
-* 网盘 - *百度网盘*
+* 网盘 - *百度网盘* / *阿里云盘*
 * Java集成开发环境 - Eclipse
 * Redis客户端 - Another Redis Desktop Manager / *RedisInsight*
 * 制图 - **Adobe Photoshop**
@@ -41,7 +41,10 @@ Working Experience &amp; Life Experience \
 * 图表工具 - diagrams.net / *会议桌* / Miro / Excalidraw
 * 磁力链接下载 - qBittorrent
 * windows11时钟显示秒针 - ElevenClock
-
+* 系统监测 - *Core Temp* / *HWMonitor* / *TreeSize Free*
+* 视频转码 - *MediaCoder*
+* MKV视频混流 - *MKVToolNix*
+* 网页实时翻译插件 - 沙拉查词(Edge)
 ### Java框架
 
 * json框架 - [Jackson](https://github.com/FasterXML/jackson)
