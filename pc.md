@@ -84,3 +84,4 @@ Working Experience &amp; Life Experience \
 ### 其他
 
 * 破解Adobe软件 - [Vposy](https://www.weibo.com/vposy)
+* windows及office破解 - [My Digital Life](https://forums.mydigitallife.net/)
