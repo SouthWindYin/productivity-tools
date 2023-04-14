@@ -47,6 +47,7 @@ Working Experience &amp; Life Experience \
 * 网页实时翻译插件 - 沙拉查词(Edge)
 ### Java框架
 
+* jdk - [oracle JDK]
 * json框架 - [Jackson](https://github.com/FasterXML/jackson)
 * jvm对象内存分析 - [JOL](https://github.com/openjdk/jol)
 
