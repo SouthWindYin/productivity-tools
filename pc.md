@@ -45,6 +45,7 @@ Working Experience &amp; Life Experience \
 * 视频转码 - *MediaCoder*
 * MKV视频混流 - *MKVToolNix*
 * 网页实时翻译插件 - 沙拉查词(Edge)
+* 手机电脑多屏协同 - scrcpy
 ### Java框架
 
 * jdk - [oracle JDK]
