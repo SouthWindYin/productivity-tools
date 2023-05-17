@@ -16,6 +16,7 @@ Fewer Higher Faster Baby!
 * [餐厅设计](./%E9%A4%90%E5%8E%85%E8%AE%BE%E8%AE%A1.md)
 * [厨房设计](./%E5%8E%A8%E6%88%BF%E8%AE%BE%E8%AE%A1.md)
 * [卫生间设计](./%E5%8D%AB%E7%94%9F%E9%97%B4%E8%AE%BE%E8%AE%A1.md)
+* [基装注意事项](./%E5%9F%BA%E8%A3%85%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.md)
 * [1688选厂指南](./1688%E9%80%89%E5%8E%82%E6%8C%87%E5%8D%97.md)
 * [工艺注意事项](./%E5%B7%A5%E8%89%BA%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.md)  
 
