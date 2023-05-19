@@ -5,7 +5,6 @@ Working Experience &amp; Life Experience \
 
 ## 软件
 
-* 系统 - **Windows 10** / Ubuntu
 * 编辑器 - Visual Studio Code
 * 下载工具 - Free Download Manager
 * 语音 - *网易UU语音*
@@ -19,7 +18,7 @@ Working Experience &amp; Life Experience \
 * 网盘 - *百度网盘* / *阿里云盘*
 * Java集成开发环境 - Eclipse
 * Redis客户端 - Another Redis Desktop Manager / *RedisInsight*
-* 制图 - **Adobe Photoshop**
+* 制图 - **Adobe Photoshop** / GIMP
 * 远程控制 - *向日葵*
 * 文件查找 - Everything
 * 压缩 - 7-Zip
@@ -44,10 +43,14 @@ Working Experience &amp; Life Experience \
 * 系统监测 - *Core Temp* / *HWMonitor* / *TreeSize Free*
 * 视频转码 - *MediaCoder*
 * MKV视频混流 - *MKVToolNix*
-* 网页实时翻译插件 - 沙拉查词(Edge)
+* 网页实时翻译插件 - 沙拉查词(浏览器插件)
+* 手机电脑多屏协同 - scrcpy
+* 3D建模 - **SketchUp**
+* 思维导图 - *Xmind*
+
 ### Java框架
 
-* jdk - [oracle JDK]
+* jdk - [oracle HotSpotJDK](https://www.oracle.com/java/technologies/downloads/) / [OpenJDK](https://openjdk.org/projects/jdk/)
 * json框架 - [Jackson](https://github.com/FasterXML/jackson)
 * jvm对象内存分析 - [JOL](https://github.com/openjdk/jol)
 
@@ -66,7 +69,7 @@ Working Experience &amp; Life Experience \
 * 搜索 - [必应](https://cn.bing.com/) / [百度](https://www.baidu.com/) / [谷歌](https://www.google.com/)
 * 数据集 - [kaggle](https://www.kaggle.com/)
 * 数学作图 - [desmos calculator](https://www.desmos.com/calculator?lang=zh-CN)
-* 翻译 - [谷歌翻译](https://translate.google.cn/) / [DeepL翻译器](https://www.deepl.com/translator)
+* 翻译 - [DeepL翻译器](https://www.deepl.com/translator) / [谷歌翻译(已失效)](https://translate.google.cn/)
 * api调试 - [Hoppscotch](https://hoppscotch.io/cn)
 * 下载在线视频 - [YT-DLP](https://github.com/yt-dlp/yt-dlp)
 * github代下载 - [Github下载](https://d.serctl.com/)
