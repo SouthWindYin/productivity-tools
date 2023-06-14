@@ -45,8 +45,10 @@ Working Experience &amp; Life Experience \
 * MKV视频混流 - *MKVToolNix*
 * 网页实时翻译插件 - 沙拉查词(浏览器插件)
 * 手机电脑多屏协同 - scrcpy
-* 3D建模 - **SketchUp**
+* 3D建模 - **SketchUp** / FreeCAD
 * 思维导图 - *Xmind*
+* 灯光设计 - DIALux
+* 
 
 ### Java框架
 
