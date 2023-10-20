@@ -81,6 +81,7 @@ Working Experience &amp; Life Experience \
 * 图片处理 - [Photopea](https://www.photopea.com/)
 * 服务器端口连通测试 - [ping.me](https://ping.pe/)
 * 全身肌肉锻炼舒展 - [MUSCLEWIKI](https://musclewiki.com/)
+* chatGPT代理 - [慧言AI](https://huiyan-ai.com/)
 
 ### 学习网站
 
