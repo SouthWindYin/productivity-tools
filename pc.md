@@ -48,7 +48,7 @@ Working Experience &amp; Life Experience \
 * 3D建模 - **SketchUp** / FreeCAD
 * 思维导图 - *Xmind*
 * 灯光设计 - DIALux
-* 
+* adobe全家桶 - AdobeGenP
 
 ### Java框架
 
