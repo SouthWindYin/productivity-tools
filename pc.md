@@ -49,6 +49,7 @@ Working Experience &amp; Life Experience \
 * 思维导图 - *Xmind*
 * 灯光设计 - DIALux
 * adobe全家桶 - AdobeGenP
+* 街机模拟器 - mame
 
 ### Java框架
 
