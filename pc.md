@@ -84,6 +84,7 @@ Working Experience &amp; Life Experience \
 * 全身肌肉锻炼舒展 - [MUSCLEWIKI](https://musclewiki.com/)
 * chatGPT代理 - [慧言AI](https://huiyan-ai.com/)
 * 白板 - [EXCALIDRAW+](https://excalidraw.com/)
+* 食物营养成分查询 - [唤醒食物](https://www.foodwake.com/)
 
 ### 学习网站
 
