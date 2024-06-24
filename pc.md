@@ -50,6 +50,7 @@ Working Experience &amp; Life Experience \
 * 灯光设计 - DIALux
 * adobe全家桶 - AdobeGenP
 * 街机模拟器 - mame
+* 备忘录 - memos
 
 ### Java框架
 
