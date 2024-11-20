@@ -50,6 +50,8 @@ Working Experience &amp; Life Experience \
 * 灯光设计 - DIALux
 * adobe全家桶 - AdobeGenP
 * 街机模拟器 - mame
+* 备忘录 - memos
+* 文档 - GITBOOK
 
 ### Java框架
 
@@ -69,10 +71,10 @@ Working Experience &amp; Life Experience \
 
 ## 网站
 
-* 搜索 - [必应](https://cn.bing.com/) / [百度](https://www.baidu.com/) / [谷歌](https://www.google.com/)
+* 搜索 - [必应](https://cn.bing.com/) / [百度](https://www.baidu.com/) / [谷歌](https://www.google.com/) / [秘塔AI](https://metaso.cn/) / [KIMI](https://kimi.moonshot.cn/)
 * 数据集 - [kaggle](https://www.kaggle.com/)
 * 数学作图 - [desmos calculator](https://www.desmos.com/calculator?lang=zh-CN)
-* 翻译 - [DeepL翻译器](https://www.deepl.com/translator) / [谷歌翻译(已失效)](https://translate.google.cn/)
+* 翻译 - [DeepL翻译器](https://www.deepl.com/translator)
 * api调试 - [Hoppscotch](https://hoppscotch.io/cn)
 * 下载在线视频 - [YT-DLP](https://github.com/yt-dlp/yt-dlp)
 * github代下载 - [Github下载](https://d.serctl.com/)
@@ -83,12 +85,15 @@ Working Experience &amp; Life Experience \
 * 服务器端口连通测试 - [ping.me](https://ping.pe/)
 * 全身肌肉锻炼舒展 - [MUSCLEWIKI](https://musclewiki.com/)
 * chatGPT代理 - [慧言AI](https://huiyan-ai.com/)
+* 白板 - [EXCALIDRAW+](https://excalidraw.com/)
+* 食物营养成分查询 - [唤醒食物](https://www.foodwake.com/)
 
 ### 学习网站
 
 * 正则表达式 - [RegexLearn](https://regexlearn.com/)
 * 算法 - [VisuAlgo](https://visualgo.net/zh)
 * 算法练习 - [力扣（中国）](https://leetcode-cn.com/) [LeetCode](https://leetcode.com/)
+* 物理数学学习 - [gatekeep](https://gatekeep.ai/)
 
 ### 娱乐网站
 
