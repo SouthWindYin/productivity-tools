@@ -58,6 +58,7 @@ Working Experience &amp; Life Experience \
 * jdk - [oracle HotSpotJDK](https://www.oracle.com/java/technologies/downloads/) / [OpenJDK](https://openjdk.org/projects/jdk/)
 * json框架 - [Jackson](https://github.com/FasterXML/jackson)
 * jvm对象内存分析 - [JOL](https://github.com/openjdk/jol)
+* eclipse google code formatter - [eclipse-java-google-style.xml](https://github.com/google/styleguide/blob/gh-pages/eclipse-java-google-style.xml)
 
 ### python框架
 
@@ -100,5 +101,5 @@ Working Experience &amp; Life Experience \
 * 字幕下载 - [字幕库](https://zimuku.org/)
 ### 其他
 
-* 破解Adobe软件 - [Vposy](https://www.weibo.com/vposy)
+* 破解Adobe软件 - [Vposy](https://www.weibo.com/vposy) [m0nkrus](https://vk.com/m0nkrus)
 * windows及office破解 - [My Digital Life](https://forums.mydigitallife.net/)
