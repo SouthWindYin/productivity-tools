@@ -6,7 +6,7 @@ Working Experience &amp; Life Experience \
 ## 软件
 
 * 编辑器 - Visual Studio Code
-* 下载工具 - Free Download Manager
+* 下载工具 - Rayburst / Free Download Manager
 * 语音 - *网易UU语音*
 * 版本管理 - Git / TortoiseSVN
 * 日程管理 - *Microsoft To Do*
@@ -69,6 +69,13 @@ Working Experience &amp; Life Experience \
 ### 前端框架
 
 * 视频播放器 - Plyr
+* svelte 5 ui - [shadcn-svelte](https://shadcn-svelte.com/)
+
+### ai
+
+* 模型选择 - [OpenRouter](https://openrouter.ai/) / [ZenMux](https://zenmux.ai/)
+* 编程软件 - [crush](https://github.com/charmbracelet/crush)
+* 编程思想 - [Spec Kit](https://github.com/github/spec-kit)
 
 ## 网站
 
@@ -85,7 +92,6 @@ Working Experience &amp; Life Experience \
 * 图片处理 - [Photopea](https://www.photopea.com/)
 * 服务器端口连通测试 - [ping.me](https://ping.pe/)
 * 全身肌肉锻炼舒展 - [MUSCLEWIKI](https://musclewiki.com/)
-* chatGPT代理 - [慧言AI](https://huiyan-ai.com/)
 * 白板 - [EXCALIDRAW+](https://excalidraw.com/)
 * 食物营养成分查询 - [唤醒食物](https://www.foodwake.com/)
 
